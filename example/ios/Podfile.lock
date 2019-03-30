@@ -1,0 +1,29 @@
+PODS:
+  - apple_pay (0.0.1):
+    - Flutter
+    - Stripe
+  - Flutter (1.0.0)
+  - Stripe (11.5.0)
+
+DEPENDENCIES:
+  - apple_pay (from `.symlinks/plugins/apple_pay/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Stripe
+
+EXTERNAL SOURCES:
+  apple_pay:
+    :path: ".symlinks/plugins/apple_pay/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  apple_pay: f6213ff2e9f33a9e85df54dd2e1f7758cf8f0faf
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  Stripe: 10761682d20dc491c52287393c800db056c9748d
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.6.1
